@@ -25,17 +25,6 @@
         <spring-boot.version>3.0.13</spring-boot.version>
     </properties>
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-
         <!--MyBatis-Plus 适配SpringBoot3.0.x-->
         <dependency>
             <groupId>com.baomidou</groupId>
